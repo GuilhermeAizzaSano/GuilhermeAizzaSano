@@ -14,8 +14,8 @@ Sou **Técnico em Desenvolvimento de Sistemas** e graduando em **Sistemas para I
 
 ### 📈 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAizzaSano&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAizzaSano&layout=compact&theme=radical" alt="Top Linguagens" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeAizzaSano&theme=radical" alt="Estatísticas do GitHub" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeAizzaSano&theme=radical" alt="Top Linguagens" width="48%">
 </div>
 
 ### 🌟 Projetos em Destaque
