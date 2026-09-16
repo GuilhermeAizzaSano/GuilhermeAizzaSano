@@ -22,7 +22,7 @@ Sou **Técnico em Desenvolvimento de Sistemas** e graduando em **Sistemas para I
 - **[APIgemini_sheets](https://github.com/GuilhermeAizzaSano/APIgemini_sheets):** Projeto integrando API Gemini e Google Sheets.
 - **[Controle-Geladeira](https://github.com/GuilhermeAizzaSano/Controle-Geladeira):** Projeto de controle e gestão de itens em JavaScript.
 - **[eQuadras](https://github.com/GuilhermeAizzaSano/eQuadras):** Sistema desenvolvido em Java.
-- **[app-boerburguer](https://github.com/GuilhermeAizzaSano/app-boerburguer):** Aplicação front-end em TypeScript.
+- **[app-boerburguer](https://github.com/GuilhermeAizzaSano/app-boerburguer):** Aplicativo mobile desenvolvido em React Native.
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeaizzasano/)
