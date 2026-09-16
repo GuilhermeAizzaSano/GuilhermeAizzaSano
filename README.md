@@ -1,1 +1,28 @@
-IyBPbMOhLCBldSBzb3UgbyBHdWlsaGVybWUgQWl6emEgU2FubyDwn5GLCgojIyMg8J+RqOKAjfCfkrsgU29icmUgbWltClNvdSAqKlTDqWNuaWNvIGVtIERlc2Vudm9sdmltZW50byBkZSBTaXN0ZW1hcyoqIGUgZ3JhZHVhbmRvIGVtICoqU2lzdGVtYXMgcGFyYSBJbnRlcm5ldCoqLiBBdHVhbG1lbnRlLCBhdHVvIGNvbW8gKipBbmFsaXN0YSBkZSBTdXBvcnRlIFTDqWNuaWNvIE4zKiosIGNvbSBmb2NvIGVtIHRlbGVjb211bmljYcOnw7VlcyBlIGNvbXVuaWNhw6fDo28gZW0gdGVtcG8gcmVhbC4KCi0g8J+UrSBBdHVvIGNvbW8gcG9udG8gZm9jYWwgbmEgZ2VzdMOjbyBlIHJlc29sdcOnw6NvIGRlIHByb2JsZW1hcyBjb21wbGV4b3MgZGUgaW5mcmFlc3RydXR1cmEsIGNvbmVjdGl2aWRhZGUgZSBzaXN0ZW1hcyBvcGVyYWNpb25haXMgY29ycG9yYXRpdm9zLgotIPCfmoAgQXBhaXhvbmFkbyBwb3IgYXV0b21hdGl6YXIgcHJvY2Vzc29zLCBpbnRlZ3JhciBmbHV4b3MgZSBjcmlhciBzb2x1w6fDtWVzIGludGVsaWdlbnRlcyAoY29tbyBjaGF0Ym90cykgcGFyYSBvdGltaXphw6fDo28gZGUgc2VydmnDp29zLgotIPCfkqEgQ29tYmlubyBvIGNvbmhlY2ltZW50byBhY2Fkw6ptaWNvIGNvbSBleHBlcmnDqm5jaWEgcHLDoXRpY2EgZW0gcHJvZ3JhbWHDp8OjbyBwYXJhIGVudHJlZ2FyIHZhbG9yIGUgbWVsaG9yYXIgb3BlcmHDp8O1ZXMgZGUgcG9udGEgYSBwb250YS4KCiMjIyDwn5ugIFRlY25vbG9naWFzICYgRmVycmFtZW50YXMKLSBfX0JhY2stZW5kICYgQXV0b21hw6fDo286X18gSmF2YSwgU3ByaW5nLCBQeXRob24sIE5vZGUuanMKLSBfX0Zyb250LWVuZDpfXyBIVE1MLCBDU1MsIEphdmFTY3JpcHQsIFR5cGVTY3JpcHQKLSBfX091dHJvczpfXyBTdXBvcnRlIEF2YW7Dp2FkbyAoTjMpLCBJbmZyYWVzdHJ1dHVyYSwgVGVsZWNvbXVuaWNhw6fDtWVzCgojIyMg8J+TiCBFc3RhdMOtc3RpY2FzIGRvIEdpdEh1Ygo8ZGl2IGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9R3VpbGhlcm1lQWl6emFTYW5vJnNob3dfaWNvbnM9dHJ1ZSZ0aGVtZT1yYWRpY2FsIiBhbHQ9IkVzdGF0w61zdGljYXMgZG8gR2l0SHViIiB3aWR0aD0iNDglIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpL3RvcC1sYW5ncy8/dXNlcm5hbWU9R3VpbGhlcm1lQWl6emFTYW5vJmxheW91dD1jb21wYWN0JnRoZW1lPXJhZGljYWwiIGFsdD0iVG9wIExpbmd1YWdlbnMiIHdpZHRoPSI0OCUiPgo8L2Rpdj4KCiMjIyDwn4yfIFByb2pldG9zIGVtIERlc3RhcXVlCi0gKipbQVBJZ2VtaW5pX3NoZWV0c10oaHR0cHM6Ly9naXRodWIuY29tL0d1aWxoZXJtZUFpenphU2Fuby9BUElnZW1pbmlfc2hlZXRzKToqKiBQcm9qZXRvIGludGVncmFuZG8gQVBJIEdlbWluaSBlIEdvb2dsZSBTaGVldHMuCi0gKipbQ29udHJvbGUtR2VsYWRlaXJhXShodHRwczovL2dpdGh1Yi5jb20vR3VpbGhlcm1lQWl6emFTYW5vL0NvbnRyb2xlLUdlbGFkZWlyYSk6KiogUHJvamV0byBkZSBjb250cm9sZSBlIGdlc3TDo28gZGUgaXRlbnMgZW0gSmF2YVNjcmlwdC4KLSAqKltlUXVhZHJhc10oaHR0cHM6Ly9naXRodWIuY29tL0d1aWxoZXJtZUFpenphU2Fuby9lUXVhZHJhcyk6KiogU2lzdGVtYSBkZXNlbnZvbHZpZG8gZW0gSmF2YS4KLSAqKlthcHAtYm9lcmJ1cmd1ZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9HdWlsaGVybWVBaXp6YVNhbm8vYXBwLWJvZXJidXJndWVyKToqKiBBcGxpY2HDp8OjbyBmcm9udC1lbmQgZW0gVHlwZVNjcmlwdC4KCiMjIyDwn5OrIENvbW8gbWUgZW5jb250cmFyClshW0xpbmtlZEluXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xpbmtlZEluLTAwNzdCNT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bGlua2VkaW4mbG9nb0NvbG9yPXdoaXRlKV0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2d1aWxoZXJtZWFpenphc2Fuby8p
+# Olá, eu sou o Guilherme Aizza Sano 👋
+
+### 👨‍💻 Sobre mim
+Sou **Técnico em Desenvolvimento de Sistemas** e graduando em **Sistemas para Internet**. Atualmente, atuo como **Analista de Suporte Técnico N3**, com foco em telecomunicações e comunicação em tempo real.
+
+- 🔭 Atuo como ponto focal na gestão e resolução de problemas complexos de infraestrutura, conectividade e sistemas operacionais corporativos.
+- 🚀 Apaixonado por automatizar processos, integrar fluxos e criar soluções inteligentes (como chatbots) para otimização de serviços.
+- 💡 Combino o conhecimento acadêmico com experiência prática em programação para entregar valor e melhorar operações de ponta a ponta.
+
+### 🛠 Tecnologias & Ferramentas
+- __Back-end & Automação:__ Java, Spring, Python, Node.js
+- __Front-end:__ HTML, CSS, JavaScript, TypeScript
+- __Outros:__ Suporte Avançado (N3), Infraestrutura, Telecomunicações
+
+### 📈 Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAizzaSano&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAizzaSano&layout=compact&theme=radical" alt="Top Linguagens" width="48%">
+</div>
+
+### 🌟 Projetos em Destaque
+- **[APIgemini_sheets](https://github.com/GuilhermeAizzaSano/APIgemini_sheets):** Projeto integrando API Gemini e Google Sheets.
+- **[Controle-Geladeira](https://github.com/GuilhermeAizzaSano/Controle-Geladeira):** Projeto de controle e gestão de itens em JavaScript.
+- **[eQuadras](https://github.com/GuilhermeAizzaSano/eQuadras):** Sistema desenvolvido em Java.
+- **[app-boerburguer](https://github.com/GuilhermeAizzaSano/app-boerburguer):** Aplicação front-end em TypeScript.
+
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeaizzasano/)
